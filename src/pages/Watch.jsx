@@ -16,7 +16,7 @@ const Watch = () => {
           <Navigate to="/500" replace={true} />
         ) : (
           <div className="m-2">
-            <iframe className="aspect-video w-full" src={watchData?.iframe[0]?.iframe}></iframe>
+            <iframe className="aspect-video w-full" src={watchData?.iframe[0]?.iframe} allowFullScreen></iframe>
           </div>
         )}
         <div className="m-2 flex items-center justify-center gap-4">

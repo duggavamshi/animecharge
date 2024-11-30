@@ -24,6 +24,4 @@ features.
 
 ## Disclaimer
 
-> **Important Notice**: This project is purely for educational purposes. It was created to demonstrate my skills and
-> learning process in web development. The content shown here does not encourage or promote illegal activities such as
-> pirated or unauthorized streaming. Please support creators by using legitimate platforms for streaming anime.
+> **Important Notice**: This project is purely for educational purposes. It was created to demonstrate my skills and learning process in web development. The content shown here does not encourage or promote illegal activities such as pirated or unauthorized streaming. Please support creators by using legitimate platforms for streaming anime.
